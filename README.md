@@ -1,11 +1,12 @@
-### 📊 My Coding Languages
+### 📊 My Programming Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif1232-Al&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
+⚡ **Languages & Tools:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📈 GitHub Metrics
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alif1232-Al&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
+### 📈 GitHub Profile
+Silakan cek repositori saya untuk melihat proyek analisis data dan kodingan lainnya.
